@@ -1,4 +1,4 @@
-# Integrated-Supplier-Performance-and-Predictive-Inventory-Management
+# Inventory Management & Predictive Analytics
 Enhancing Inventory Management with Predictive Analytics 
 
 This repository contains code and resources for a project focusing on developing a comprehensive model for predicting stockouts, evaluating supplier performance, and enhancing inventory management and restocking procedures.
